@@ -13,13 +13,13 @@ public class Student
     {
         this.usn=usn;
     }
-    public String getName()
+    public String getname()
     {
-        return Name;
+        return name;
     }
-    public void setName(String Name)
+    public void setname(String name)
     {
-        this.Name=Name;
+        this.name=name;
     }
     public double getMarks()
     {
