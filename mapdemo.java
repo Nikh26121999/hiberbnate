@@ -22,7 +22,7 @@ public class mapdemo
         System.out.println(q.getQuestion());
         for(Answer a:q.getAnswers())
         {
-            System.out.println(a.getAnswer());
+            System.out.println(a.getAnswers());
         }
 
     }
